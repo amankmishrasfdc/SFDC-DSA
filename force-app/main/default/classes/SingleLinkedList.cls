@@ -1,0 +1,67 @@
+//Implement A Singly Linked List
+public with sharing class SingleLinkedList {
+    public class LinkedList{
+
+    List<Integer> intList;
+ 
+       public void addToFront(Integer value){
+   
+           if(intList.size()==0){
+   
+               intList.add(value);
+   
+           }else
+   
+           intList.add(0,value);
+   
+           
+   
+       }
+   
+       public Integer removeFromFront(){
+   
+           if(intList.size()>0 && intList != null)
+   
+          return intList.remove(0);
+   
+          else
+   
+          return null;
+   
+       }
+   
+       public void addToTail(Integer value){
+   
+           intList.add(value);
+   
+       }
+   
+       public Integer removeFromTail(){
+   
+           if(intList.size()>0 && intList != null)
+   
+          return intList.remove(intList.size()-1);
+   
+          else
+   
+          return null;
+   
+       }
+   
+       public Integer size(){
+   
+           return intList.size();
+   
+       }   
+   
+       public LinkedList(){
+   
+          intList = new List<Integer>();
+   
+       }
+   
+   }
+   
+   public class Node{
+   }
+}
