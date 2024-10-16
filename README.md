@@ -1,19 +1,38 @@
-# Salesforce DX Project: Next Steps
+👋 Hi, I'm Aman Kumar Mishra!
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Senior Consultant | Salesforce Developer | Problem Solver
 
-## How Do You Plan to Deploy Your Changes?
+🚀 Senior Consultant Salesforce Developer at Absyz Software Consulting Pvt. Ltd.
+💼 Previously: Application Development Analyst at Accenture
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+💡 About Me
+I am a passionate Salesforce Developer with a strong foundation in Electrical and Electronics Engineering and a career focused on Salesforce development and consulting. My expertise lies in building robust, scalable applications and solving complex business problems using the Salesforce platform.
 
-## Configure Your Salesforce DX Project
+🔧 Key Skills:
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+Apex, LWC, REST APIs, Webservices, Process Automation, Asynchronous Programming
+JavaScript, VS Code, CLI, Copado
+Design and Architecture, Data Modeling
+🛠️ Projects:
 
-## Read All About It
+Non-Profit Student Exchange Application
+Middle East Government's Entity Registration and Licensing System
+US State Health Department Project (Accenture)
+🎓 Salesforce Certifications:
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
-# SFDC-DSA
+Salesforce Certified Associate
+Platform App Builder
+Platform Developer I
+Salesforce Administrator
+🛠️ Tools & Technologies
+
+🌱 What I'm Learning
+I'm constantly upgrading my knowledge and exploring new technologies to stay at the forefront of Salesforce development and cloud architecture.
+
+💻 Learning Salesforce DevOps tools like Copado
+🌐 Diving deeper into API integrations and architecture design
+🤝 Let's Connect
+I'm always open to discussing tech, collaborations, or just sharing knowledge. Feel free to reach out:
+
+LinkedIn: [Aman Kumar Mishra](https://www.linkedin.com/in/amankmishra6397/)
+GitHub: @amankmishrasfdc
